@@ -1,5 +1,5 @@
 # Emergency Point
-__This is a web application to allow to user find all necessary equipment such as nearby hospital, ambulance, medicine, oxygen sorted according to his current position__
+This is a web application to allow to user find all necessary equipment such as nearby hospital, ambulance, medicine, oxygen sorted according to his current position
 <img src="/static/images/icon.jpg" alt="icon-logo" style="height: 200px; width:200px;"/>
 ### Technology used :heart:
  - For frontend
