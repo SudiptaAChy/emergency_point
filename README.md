@@ -1,6 +1,7 @@
 # Emergency Point
 __This is a web application to allow to user find all necessary equipment such as nearby hospital, ambulance, medicine, oxygen sorted according to his current position__
-### Technology used :
+<p align="center"><img src="/static/images/icon.jpg" alt="icon-logo" style="height: 200px; width:200px;"/></p>
+### Technology used :heart:
  - For frontend
     - HTML
     - CSS
@@ -10,7 +11,7 @@ __This is a web application to allow to user find all necessary equipment such a
     - Python (Django)
     - Mysql (Database)
     - Google map api for getting user's current location
-### Features :
+### Features :pushpin:
  - Provider side :
     - Create account with his service locatio
     - can add his service
